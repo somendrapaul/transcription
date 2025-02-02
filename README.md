@@ -1,6 +1,6 @@
 **Machine Learning Model**:
 
-- We've created a `TranscriptionModel` class that uses the AI SDK to simulate a machine learning model.
+- I've created a `TranscriptionModel` class that uses the AI SDK to simulate a machine learning model.
 - The model can be "trained" with user feedback, improving its accuracy over time.
 - When the model has enough data (100 entries in this example), it simulates a fine-tuning process.
 
@@ -8,8 +8,8 @@
 
 **Improved Grammatical Structures**:
 
-- We've added handling for Bangla postpositions, mapping them to their Hindi equivalents.
-- We've included basic verb conjugation handling, which can be expanded for more comprehensive coverage.
+- I've added handling for Bangla postpositions, mapping them to their Hindi equivalents.
+- I've included basic verb conjugation handling, which can be expanded for more comprehensive coverage.
 
 
 
